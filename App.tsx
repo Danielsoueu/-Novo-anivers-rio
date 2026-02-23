@@ -21,8 +21,8 @@ const App: React.FC = () => {
 
   const googleMapsLink = "https://www.google.com/maps/search/?api=1&query=Adega+777+Rua+Lino+Coutinho+1871";
   const wazeLink = "https://waze.com/ul?q=Rua+Lino+Coutinho+1871";
-  // Placeholder for WhatsApp group
-  const whatsappGroupLink = "https://chat.whatsapp.com/invite/placeholder"; 
+  // Updated WhatsApp group link
+  const whatsappGroupLink = "https://chat.whatsapp.com/JywoIhcMrldFTZjdX6MDHz"; 
 
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
 
