@@ -44,7 +44,7 @@ const App: React.FC = () => {
             <div className="mb-2 text-yellow-500 flex justify-center">
                 <Flame size={40} className="animate-pulse" />
             </div>
-          <h2 className="text-xl tracking-[0.2em] font-light text-zinc-300 mb-2">BUTECO DO</h2>
+          <h2 className="text-xl tracking-[0.2em] font-light text-zinc-300 mb-2">ANIVERSÁRIO DO</h2>
           <h1 className="text-7xl md:text-8xl font-display text-yellow-500 drop-shadow-lg transform -rotate-2">
             LUCAS
           </h1>
